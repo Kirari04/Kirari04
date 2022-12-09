@@ -53,13 +53,29 @@ Introducing Class Organizer, the all-in-one app for managing your classes, stude
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img alt="grafik" height="18" style="background: #fff;padding:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FFmpeg_Logo_new.svg/1280px-FFmpeg_Logo_new.svg.png" />
 
 <p>
-
+ScaledCDN is a powerful and scalable API designed specifically for video hosting. With its robust infrastructure and horizontal scaling capabilities, ScaledCDN is the perfect solution for businesses looking to manage and grow their online video presence. Built from four key components - the main server, proxys, fileserver, and encoding server - ScaledCDN offers a reliable and flexible platform for hosting, streaming, and managing large volumes of video content.
 </p>
+
+#### Main server backend 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+#### Proxy server backend 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+#### File server backend 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+#### Encoding server backend (old)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### Encoding server backend 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 <p>Screenshots:</p>
-![grafik](https://user-images.githubusercontent.com/103888491/206692714-8881ccd5-e29f-456c-82ca-3c4dabf4bf82.png)
+<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206692714-8881ccd5-e29f-456c-82ca-3c4dabf4bf82.png" />
 <br /><br />
