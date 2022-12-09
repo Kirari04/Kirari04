@@ -61,4 +61,5 @@ Introducing Class Organizer, the all-in-one app for managing your classes, stude
 
 </p>
 <p>Screenshots:</p>
+![grafik](https://user-images.githubusercontent.com/103888491/206692714-8881ccd5-e29f-456c-82ca-3c4dabf4bf82.png)
 <br /><br />
