@@ -31,6 +31,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img alt="grafik" height="28" src="https://user-images.githubusercontent.com/103888491/206697162-9d178ff2-0996-446d-a715-4d93c92b5786.png" />
 
 ## Stuff I build with ...
 <br />
@@ -58,7 +59,7 @@ Introducing Class Organizer, the all-in-one app for managing your classes, stude
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img alt="grafik" height="18" style="background: #fff;padding:5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FFmpeg_Logo_new.svg/1280px-FFmpeg_Logo_new.svg.png" />
+<img alt="grafik" height="28" src="https://user-images.githubusercontent.com/103888491/206697162-9d178ff2-0996-446d-a715-4d93c92b5786.png" />
 
 <p>
 ScaledCDN is a powerful and scalable API designed specifically for video hosting. With its robust infrastructure and horizontal scaling capabilities, ScaledCDN is the perfect solution for businesses looking to manage and grow their online video presence. Built from four key components - the main server, proxys, fileserver, and encoding server - ScaledCDN offers a reliable and flexible platform for hosting, streaming, and managing large volumes of video content.
