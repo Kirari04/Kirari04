@@ -33,7 +33,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img alt="grafik" height="28" src="https://user-images.githubusercontent.com/103888491/206697162-9d178ff2-0996-446d-a715-4d93c92b5786.png" />
 
-## Table of contents
+<details>
+<summary><h2>My Projects</h2></summary>
+
+### Table of contents
 -   [Class Organizer](#Class-Organizer-2020)
 -   [Business Card](#Business-Card-2020)
 -   [Image Gallery](#Image-Gallery-2021)
@@ -41,11 +44,7 @@
 -   [My Little Zoo](#My-Little-Zoo-2022)
 -   [Bash Passwordmanager](#Bash-Passwordmanager-2022)
 -   [Timetable 2I](#Timetable-2I-2022)
-
-<details> 
-<summary>My Projects<summary>
 <hr><br><br>
-
 
 ### **Class Organizer** (2020)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
