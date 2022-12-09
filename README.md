@@ -195,3 +195,24 @@ This is a Flutter application that displays the timetable for the 2I class. The 
     <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726064-2b25edd9-3e55-4ddd-bd51-de871669d9ad.jpg" />
 </p>
 <br /><br />
+
+### **NanimeWiki Api** (2022-?)
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+<p>
+This API will be a modern, multi-language anime information content management system that aims to compete with existing platforms such as Anisearch and Anilist. It will provide comprehensive, up-to-date information about anime series, characters, and other related content, and will be accessible to developers and users in a variety of languages. With its advanced features and user-friendly design, this API will be a valuable resource for anime enthusiasts and developers alike.
+</p>
+
+[Kirari04/nanimewiki_go](https://github.com/Kirari04/nanimewiki_go) <br />
+[Nanimewiki](https://github.com/Nanimewiki)
+<p>Screenshots:</p>
+<p>
+    No screenshots yet.
+</p>
+<br /><br />
