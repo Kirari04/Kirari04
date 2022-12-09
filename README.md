@@ -95,6 +95,27 @@ ScaledCDN is a powerful and scalable API designed specifically for video hosting
 </p>
 <br /><br />
 
+### **My Little Zoo** (2022)
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
+
+<p>
+This is a Flutter application that displays the timetable for the 2I class. The application retrieves the data in real-time from intranet.tam.ch and saves it for offline use. The data fetching from a self-engineered backend built on Node.js and Puppeteer that reverse ingeniers the website intranet.tam.ch. This design allows for efficient and convenient access to the latest class schedule, even without an active internet connection.
+</p>
+
+[Kirari04/mylittlezoo](https://github.com/Kirari04/mylittlezoo)
+<p>Screenshots:</p>
+<p>
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206737042-a52b4d2b-5dee-4138-b002-306eea066cdd.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206737280-3a617710-e379-4113-a761-60b55534c573.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206738064-c79e777e-b219-4e43-a1f0-2857dbed66c0.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206738271-cc19f0de-ea76-40c4-87fb-fb4f1d25059e.png" />
+    
+</p>
+<br /><br />
+
 ### **Bash Passwordmanager** (2022)
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -104,7 +125,7 @@ ScaledCDN is a powerful and scalable API designed specifically for video hosting
 The password manager is a command-line application that is programmed using the Bash scripting language. It is designed to help users securely store their passwords and other sensitive information. The application uses the Pretty Good Privacy (PGP) encryption standard to encrypt the passwords, ensuring that they are protected from unauthorized access. With this password manager, users can easily store passwords for their various accounts and access them with a single master password. This makes it a convenient and secure way to manage all of your important information in one place.
 </p>
 
-
+[Kirari04/Bash_Passwordmanager](https://github.com/Kirari04/Bash_Passwordmanager)
 <p>Screenshots:</p>
 <p>
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206714234-e782fddf-5453-4e11-a167-c20422f0d2ab.png" />
@@ -126,7 +147,7 @@ The password manager is a command-line application that is programmed using the 
 This is a Flutter application that displays the timetable for the 2I class. The application retrieves the data in real-time from intranet.tam.ch and saves it for offline use. The data fetching from a self-engineered backend built on Node.js and Puppeteer that reverse ingeniers the website intranet.tam.ch. This design allows for efficient and convenient access to the latest class schedule, even without an active internet connection.
 </p>
 
-
+[Kirari04/flutter_stundenplan](https://github.com/Kirari04/flutter_stundenplan)
 <p>Screenshots:</p>
 <p>
     <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726044-38931034-c93e-4844-aa71-4244bbfcf9c9.jpg" />
