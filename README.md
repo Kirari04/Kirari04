@@ -35,6 +35,7 @@
 ## Table of contents
 -   [Class Organizer](#Class-Organizer-2020)
 -   [Business Card](#Business-Card-2020)
+-   [Image Gallery](#Image-Gallery-2021)
 -   [Video CMS API](#Video-CMS-API-2021)
 -   [My Little Zoo](#My-Little-Zoo-2022)
 -   [Bash Passwordmanager](#Bash-Passwordmanager-2022)
@@ -74,6 +75,31 @@ This website homepage is optimized for search engine optimization, enabling the 
 <p>Screenshots:</p>
 <p>
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206719125-a1c505a0-b0f9-4720-91dc-178216e5672c.png" />
+</p>
+<br /><br />
+
+
+### **Image Gallery** (2021)
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+<p>
+This website allows users to store and organize their images into galleries. To optimize the user experience, the website automatically converts uploaded images into multiple sizes, ensuring that they are delivered in the most performant format to the client. Access to the images is restricted to a whitelist of users who have registered for an account on the website. This allows for secure and controlled sharing of the images among authorized users.
+</p>
+
+
+<p>Screenshots:</p>
+<p>
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206744557-c21fafe8-b043-4ded-9ece-f60d61f18c5b.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206745149-e796d28d-1b29-447e-b42e-bfff92ed1c20.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206745316-a5827d98-80e8-4085-af77-1996d440e534.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206745458-c06a19f3-c1f0-45b1-90d4-eb83d761b9c9.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206746092-43fb850e-7703-43ac-bd87-1762f002d4e8.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206746001-c7e153ab-0ada-4804-aaab-92f9bb9a9f21.png" />
 </p>
 <br /><br />
 
