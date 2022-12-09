@@ -42,8 +42,9 @@
 -   [Bash Passwordmanager](#Bash-Passwordmanager-2022)
 -   [Timetable 2I](#Timetable-2I-2022)
 
-## Stuff I build with ...
-<br />
+<details> 
+<summary>My Projects<summary>
+<hr><br><br>
 
 
 ### **Class Organizer** (2020)
@@ -78,7 +79,7 @@ This website homepage is optimized for search engine optimization, enabling the 
 <p>
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206719125-a1c505a0-b0f9-4720-91dc-178216e5672c.png" />
 </p>
-<br /><br />
+<br /><hr><br><br>
 
 
 ### **Image Gallery** (2021)
@@ -104,7 +105,7 @@ This website allows users to store and organize their images into galleries. To 
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206746092-43fb850e-7703-43ac-bd87-1762f002d4e8.png" />
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206746001-c7e153ab-0ada-4804-aaab-92f9bb9a9f21.png" />
 </p>
-<br /><br />
+<br /><hr><br><br>
 
 
 ### **Video CMS API** (2021)
@@ -131,7 +132,7 @@ ScaledCDN is a powerful and scalable API designed specifically for video hosting
 <p>
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206692714-8881ccd5-e29f-456c-82ca-3c4dabf4bf82.png" />
 </p>
-<br /><br />
+<br /><hr><br><br>
 
 ### **My Little Zoo** (2022)
 
@@ -152,7 +153,7 @@ This is a Flutter application that displays the timetable for the 2I class. The 
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206738271-cc19f0de-ea76-40c4-87fb-fb4f1d25059e.png" />
     
 </p>
-<br /><br />
+<br /><hr><br><br>
 
 ### **Bash Passwordmanager** (2022)
 
@@ -171,7 +172,7 @@ The password manager is a command-line application that is programmed using the 
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206714898-f0ebe61d-7b07-4d72-9627-1d11c0093c18.png" />
     <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206715421-98d6f5ef-e943-4398-9fa2-188fb72b9a40.png" />
 </p>
-<br /><br />
+<br /><hr><br><br>
 
 ### **Timetable 2I** (2022)
 
@@ -194,7 +195,7 @@ This is a Flutter application that displays the timetable for the 2I class. The 
     <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726059-63f5fa05-ca73-4ad1-9768-55f939a3270d.jpg" />
     <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726064-2b25edd9-3e55-4ddd-bd51-de871669d9ad.jpg" />
 </p>
-<br /><br />
+<br /><hr><br><br>
 
 ### **NanimeWiki Api** (2022-?)
 
@@ -215,4 +216,5 @@ This API will be a modern, multi-language anime information content management s
 <p>
     No screenshots yet.
 </p>
-<br /><br />
+<br />
+</details>
