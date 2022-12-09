@@ -98,7 +98,7 @@ ScaledCDN is a powerful and scalable API designed specifically for video hosting
 ### **Bash Passwordmanager** (2022)
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PGP](https://shorturl.at/nqzC4)
+![PGP](https://img.shields.io/badge/pgp-5f9ab7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgUHJvIDYuMi4xIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlIChDb21tZXJjaWFsIExpY2Vuc2UpIENvcHlyaWdodCAyMDIyIEZvbnRpY29ucywgSW5jLiAtLT48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzM2IDM1MmM5Ny4yIDAgMTc2LTc4LjggMTc2LTE3NlM0MzMuMiAwIDMzNiAwUzE2MCA3OC44IDE2MCAxNzZjMCAxOC43IDIuOSAzNi44IDguMyA1My43TDcgMzkxYy00LjUgNC41LTcgMTAuNi03IDE3djgwYzAgMTMuMyAxMC43IDI0IDI0IDI0aDgwYzEzLjMgMCAyNC0xMC43IDI0LTI0VjQ0OGg0MGMxMy4zIDAgMjQtMTAuNyAyNC0yNFYzODRoNDBjNi40IDAgMTIuNS0yLjUgMTctN2wzMy4zLTMzLjNjMTYuOSA1LjQgMzUgOC4zIDUzLjcgOC4zem00MC0xNzZjLTIyLjEgMC00MC0xNy45LTQwLTQwczE3LjktNDAgNDAtNDBzNDAgMTcuOSA0MCA0MHMtMTcuOSA0MC00MCA0MHoiLz48L3N2Zz4K&logoColor=white)
 
 <p>
 The password manager is a command-line application that is programmed using the Bash scripting language. It is designed to help users securely store their passwords and other sensitive information. The application uses the Pretty Good Privacy (PGP) encryption standard to encrypt the passwords, ensuring that they are protected from unauthorized access. With this password manager, users can easily store passwords for their various accounts and access them with a single master password. This makes it a convenient and secure way to manage all of your important information in one place.
