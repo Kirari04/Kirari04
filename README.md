@@ -45,9 +45,11 @@
 Introducing Class Organizer, the all-in-one app for managing your classes, students, and their files. With Class Organizer, you can easily create and manage your classes, add students to them, and keep track of their files in one convenient place. The website allows you to upload files for each student and organize them by class and student, making it easy to find what you need. Class Organizer makes it easy to stay on top of your classes and keep your students organized.  
 </p>
 <p>Screenshots:</p>
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206664568-cc9853fd-683e-46fc-a419-d36128ad434f.png" />
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206664737-114531eb-d5a6-4e52-b62e-0bf8cdfd2a2c.png" />
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206665102-5c2f0f55-3c65-422e-982c-87013abbb77a.png" />
+<p>
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206664568-cc9853fd-683e-46fc-a419-d36128ad434f.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206664737-114531eb-d5a6-4e52-b62e-0bf8cdfd2a2c.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206665102-5c2f0f55-3c65-422e-982c-87013abbb77a.png" />
+</p>
 <br /><br />
 
 ### **Business Card** (2020)
@@ -62,7 +64,9 @@ This website homepage is optimized for search engine optimization, enabling the 
 
 
 <p>Screenshots:</p>
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206719125-a1c505a0-b0f9-4720-91dc-178216e5672c.png" />
+<p>
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206719125-a1c505a0-b0f9-4720-91dc-178216e5672c.png" />
+</p>
 <br /><br />
 
 
@@ -94,7 +98,9 @@ ScaledCDN is a powerful and scalable API designed specifically for video hosting
 
 
 <p>Screenshots:</p>
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206692714-8881ccd5-e29f-456c-82ca-3c4dabf4bf82.png" />
+<p>
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206692714-8881ccd5-e29f-456c-82ca-3c4dabf4bf82.png" />
+</p>
 <br /><br />
 
 ### **Bash Passwordmanager** (2022)
@@ -108,10 +114,12 @@ The password manager is a command-line application that is programmed using the 
 
 
 <p>Screenshots:</p>
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206714234-e782fddf-5453-4e11-a167-c20422f0d2ab.png" />
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206714403-864eac6b-0556-460a-a250-9aef83a11273.png" />
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206714898-f0ebe61d-7b07-4d72-9627-1d11c0093c18.png" />
-<img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206715421-98d6f5ef-e943-4398-9fa2-188fb72b9a40.png" />
+<p>
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206714234-e782fddf-5453-4e11-a167-c20422f0d2ab.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206714403-864eac6b-0556-460a-a250-9aef83a11273.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206714898-f0ebe61d-7b07-4d72-9627-1d11c0093c18.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/206715421-98d6f5ef-e943-4398-9fa2-188fb72b9a40.png" />
+</p>
 <br /><br />
 
 ### **Timetable 2I** (2022)
@@ -128,9 +136,11 @@ This is a Flutter application that displays the timetable for the 2I class. The 
 
 
 <p>Screenshots:</p>
-<img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726044-38931034-c93e-4844-aa71-4244bbfcf9c9.jpg" />
-<img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726051-a57f608d-b13e-4fd4-9ba7-aa4637d56425.jpg" />
-<img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726056-b8404471-ea72-4fca-8324-5780ff2bac59.jpg" />
-<img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726059-63f5fa05-ca73-4ad1-9768-55f939a3270d.jpg" />
-<img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726064-2b25edd9-3e55-4ddd-bd51-de871669d9ad.jpg" />
+<p>
+    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726044-38931034-c93e-4844-aa71-4244bbfcf9c9.jpg" />
+    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726051-a57f608d-b13e-4fd4-9ba7-aa4637d56425.jpg" />
+    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726056-b8404471-ea72-4fca-8324-5780ff2bac59.jpg" />
+    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726059-63f5fa05-ca73-4ad1-9768-55f939a3270d.jpg" />
+    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726064-2b25edd9-3e55-4ddd-bd51-de871669d9ad.jpg" />
+</p>
 <br /><br />
