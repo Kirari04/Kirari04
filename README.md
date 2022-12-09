@@ -85,17 +85,9 @@ This website homepage is optimized for search engine optimization, enabling the 
 ScaledCDN is a powerful and scalable API designed specifically for video hosting. With its robust infrastructure and horizontal scaling capabilities, ScaledCDN is the perfect solution for businesses looking to manage and grow their online video presence. Built from four key components - the main server, proxys, fileserver, and encoding server - ScaledCDN offers a reliable and flexible platform for hosting, streaming, and managing large volumes of video content.
 </p>
 
-#### Main server backend 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-#### Proxy server backend 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-#### File server backend 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-#### Encoding server backend (old)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-#### Encoding server backend 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+|Main server backend|Proxy server backend|File server backend|Encoding server (old)|Encoding server|
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)|![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)|![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|
 
 <p>Screenshots:</p>
 <p>
