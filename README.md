@@ -158,10 +158,10 @@ This is a Flutter application that displays the timetable for the 2I class. The 
 [Kirari04/flutter_stundenplan](https://github.com/Kirari04/flutter_stundenplan)
 <p>Screenshots:</p>
 <p>
-    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726044-38931034-c93e-4844-aa71-4244bbfcf9c9.jpg" />
-    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726051-a57f608d-b13e-4fd4-9ba7-aa4637d56425.jpg" />
-    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726056-b8404471-ea72-4fca-8324-5780ff2bac59.jpg" />
-    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726059-63f5fa05-ca73-4ad1-9768-55f939a3270d.jpg" />
-    <img alt="grafik" width="150" src="https://user-images.githubusercontent.com/103888491/206726064-2b25edd9-3e55-4ddd-bd51-de871669d9ad.jpg" />
+    <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726044-38931034-c93e-4844-aa71-4244bbfcf9c9.jpg" />
+    <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726051-a57f608d-b13e-4fd4-9ba7-aa4637d56425.jpg" />
+    <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726056-b8404471-ea72-4fca-8324-5780ff2bac59.jpg" />
+    <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726059-63f5fa05-ca73-4ad1-9768-55f939a3270d.jpg" />
+    <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726064-2b25edd9-3e55-4ddd-bd51-de871669d9ad.jpg" />
 </p>
 <br /><br />
