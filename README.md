@@ -65,6 +65,7 @@ Introducing Class Organizer, the all-in-one app for managing your classes, stude
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <p>
 This website homepage is optimized for search engine optimization, enabling the business to rank highly in Google search results. Despite its small size, this website effectively serves as a digital business card, providing essential information about the business to potential clients and customers.
