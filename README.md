@@ -44,6 +44,7 @@
 -   [My Little Zoo](#My-Little-Zoo-2022)
 -   [Bash Passwordmanager](#Bash-Passwordmanager-2022)
 -   [Timetable 2I](#Timetable-2I-2022)
+-   [NanimeWiki Api](#NanimeWiki-Api-2022-)
 <hr><br><br>
 
 ### **Class Organizer** (2020)
