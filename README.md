@@ -141,7 +141,7 @@ ScaledCDN is a powerful and scalable API designed specifically for video hosting
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
 <p>
-This is a Flutter application that displays the timetable for the 2I class. The application retrieves the data in real-time from intranet.tam.ch and saves it for offline use. The data fetching from a self-engineered backend built on Node.js and Puppeteer that reverse ingeniers the website intranet.tam.ch. This design allows for efficient and convenient access to the latest class schedule, even without an active internet connection.
+For the "My Little Zoo" school project, my task was to write a website using HTML, CSS, and a framework of my choice (NUXT). I utilized the skills and knowledge I have gained to create a visually appealing and user-friendly website that met the requirements of the assignment.
 </p>
 
 [Kirari04/mylittlezoo](https://github.com/Kirari04/mylittlezoo)
