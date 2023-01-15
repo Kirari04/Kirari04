@@ -218,3 +218,5 @@ This API will be a modern, multi-language anime information content management s
 </p>
 <br />
 </details>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Kirari04)
