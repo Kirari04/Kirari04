@@ -221,4 +221,4 @@ This API will be a modern, multi-language anime information content management s
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kirari04&theme=radical)
 
-![GitHub Langs]([https://streak-stats.demolab.com/?user=Kirari04&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirari04&langs_count=10&theme=radical)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirari04&langs_count=10&theme=radical)
