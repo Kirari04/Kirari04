@@ -176,7 +176,7 @@ The password manager is a command-line application that is programmed using the 
 </p>
 <br /><hr><br><br>
 
-### **Timetable 2I** (2022)
+### **Timetable KBW** (2022)
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -185,7 +185,7 @@ The password manager is a command-line application that is programmed using the 
 
 
 <p>
-This is a Flutter application that displays the timetable for the 2I class. The application retrieves the data in real-time from intranet.tam.ch and saves it for offline use. The data fetching from a self-engineered backend built on Node.js and Puppeteer that reverse ingeniers the website intranet.tam.ch. This design allows for efficient and convenient access to the latest class schedule, even without an active internet connection.
+This is a Flutter application that displays the timetable for any class of the school KBW. The application retrieves the data in real-time from intranet.tam.ch and saves it for offline use. The data fetching from a self-engineered backend built on Node.js and Puppeteer that reverse ingeniers the website intranet.tam.ch. This design allows for efficient and convenient access to the latest class schedule, even without an active internet connection.
 </p>
 
 [Kirari04/flutter_stundenplan](https://github.com/Kirari04/flutter_stundenplan)
