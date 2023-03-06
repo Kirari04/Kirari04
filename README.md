@@ -1,8 +1,8 @@
 # Kirari04 | Lev Saminskij
 ## Hi there 👋
 
-- 🔭 I’m currently working on the backend of NanimeWiki
-- 🌱 I’m currently learning Golang in combination with gin
+- 🔭 I’m currently working on the backend of VideoCMS
+- 🌱 I’m currently learning Golang in combination with fiber
 - 📫 How to reach me: lev@saminskij.ch
 
 
@@ -14,6 +14,7 @@
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-4fcca6?style=for-the-badge&logo=puppeteer&logoColor=white)
@@ -44,6 +45,7 @@
 -   [My Little Zoo](#My-Little-Zoo-2022)
 -   [Bash Passwordmanager](#Bash-Passwordmanager-2022)
 -   [Timetable 2I](#Timetable-2I-2022)
+-   [VideoCMS](#videocms-2023-)
 <hr><br><br>
 
 ### **Class Organizer** (2020)
@@ -193,6 +195,26 @@ This is a Flutter application that displays the timetable for the 2I class. The 
     <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726056-b8404471-ea72-4fca-8324-5780ff2bac59.jpg" />
     <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726059-63f5fa05-ca73-4ad1-9768-55f939a3270d.jpg" />
     <img alt="grafik" width="100" src="https://user-images.githubusercontent.com/103888491/206726064-2b25edd9-3e55-4ddd-bd51-de871669d9ad.jpg" />
+</p>
+<br /><hr><br><br>
+    
+    
+### **VideoCMS** (2023-?)
+
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<p>
+This project is a CMS for videos. It has features like uploading, encoding, managing and distributing the videos to an large audience.
+The project will have multiple stage where it first runs only on one maschine. Then I'll add support for external storage, proxys, external encoding server and more!
+</p>
+
+[Docker Images : Kirari04/videocms](https://hub.docker.com/r/kirari04/videocms)<br>
+[Frontend : 02Gqbriel/videocms-svelte](https://github.com/02Gqbriel/videocms-svelte)
+<p>Screenshots:</p>
+<p>
+    No screenshots yet.
 </p>
 <br /><hr><br><br>
     
