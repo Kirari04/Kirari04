@@ -15,6 +15,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+<img alt="grafik" height="28" src="https://user-images.githubusercontent.com/103888491/223108157-ab1f8ba4-6a1c-4384-85ac-03879eeda834.png" />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-4fcca6?style=for-the-badge&logo=puppeteer&logoColor=white)
@@ -204,6 +205,7 @@ This is a Flutter application that displays the timetable for the 2I class. The 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img alt="grafik" height="28" src="https://user-images.githubusercontent.com/103888491/223108157-ab1f8ba4-6a1c-4384-85ac-03879eeda834.png" />
 
 <p>
 This project is a CMS for videos. It has features like uploading, encoding, managing and distributing the videos to an large audience.
