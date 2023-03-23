@@ -206,7 +206,7 @@ This is a Flutter application that displays the timetable for any class of the s
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
 <p>
-I'm currently working on my personal unique portfolio that will have all basic informations about me and present them in an unique way.
+I'm currently working on my personal unique portfolio that will feature all basic informations about me & my projects and present them in a unique way.
 </p>
 
 [Kirari04/portfolio](https://github.com/Kirari04/portfolio)
