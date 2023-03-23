@@ -235,7 +235,9 @@ The project will have multiple stage where it first runs only on one maschine. T
 [Frontend : 02Gqbriel/videocms-svelte](https://github.com/02Gqbriel/videocms-svelte)
 <p>Screenshots:</p>
 <p>
-    No screenshots yet.
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227171392-08e64f44-883f-4423-90dd-49b3bd46120f.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227171764-86861584-da76-41c9-baeb-18c30f6bb8b1.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227172126-a02d0376-30a7-4cfa-a91f-6f5e8809c8ef.png" />
 </p>
 <br /><hr><br><br>
     
