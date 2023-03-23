@@ -46,6 +46,7 @@
 -   [My Little Zoo](#My-Little-Zoo-2022)
 -   [Bash Passwordmanager](#Bash-Passwordmanager-2022)
 -   [Timetable 2I](#Timetable-2I-2022)
+-   [Portfolio](#portfolio-2023-)
 -   [VideoCMS](#videocms-2023-)
 <hr><br><br>
 
@@ -199,7 +200,22 @@ This is a Flutter application that displays the timetable for any class of the s
 </p>
 <br /><hr><br><br>
     
-    
+
+### **Portfolio** (2023-?)
+
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+
+<p>
+I'm currently working on my personal unique portfolio that will have all basic informations about me and present them in an unique way.
+</p>
+
+[Kirari04/portfolio](https://github.com/Kirari04/portfolio)
+<p>Screenshots:</p>
+<p>
+    No screenshots yet.
+</p>
+<br /><hr><br><br>
+
 ### **VideoCMS** (2023-?)
 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
