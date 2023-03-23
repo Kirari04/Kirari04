@@ -212,7 +212,10 @@ I'm currently working on my personal unique portfolio that will feature all basi
 [Kirari04/portfolio](https://github.com/Kirari04/portfolio)
 <p>Screenshots:</p>
 <p>
-    No screenshots yet.
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227169721-5188843b-99e4-47aa-bb7a-65c4f18e59fb.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227169968-68c91b55-3e55-417d-8b5e-4ca161be333c.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227170204-232c1dbd-9c16-4ae9-90d4-c6094d137a4a.png" />
+    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227170316-08a416ce-9c51-49da-93aa-3516760f13f4.png" />
 </p>
 <br /><hr><br><br>
 
