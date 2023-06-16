@@ -216,9 +216,8 @@ This is a website to promote S-Ensemble's work, concert's and they'r members.
 This is a spacebar api compatible client that should replace (in the future) they'r slow web-client.
 </p>
 
-[Demo Website](https://spacebar.senpai.one)
+[Demo Website](https://spacebar.senpai.one) <br>
 [Code : Kirari04/spacebar_client](https://github.com/Kirari04/spacebar_client/)
-<br>
 
 <p>Screenshots:</p>
 <p>
