@@ -207,3 +207,21 @@ This is a website to promote S-Ensemble's work, concert's and they'r members.
     <img alt="grafik" width="200" src="https://github.com/Kirari04/Kirari04/assets/103888491/ffc61a7b-e2f6-4126-b5e3-dfc526cea117" />
 </p>
 <br /><hr><br><br>
+
+### **Spacebar Client** (2023)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<p>
+This is a spacebar api compatible client that should replace (in the future) they'r slow web-client.
+</p>
+
+[Demo Website](https://spacebar.senpai.one)
+[Code : Kirari04/spacebar_client](https://github.com/Kirari04/spacebar_client/)
+<br>
+
+<p>Screenshots:</p>
+<p>
+    <img alt="grafik" width="200" src="https://raw.githubusercontent.com/Kirari04/spacebar_client/master/doc/client.png" />
+</p>
+<br /><hr><br><br>

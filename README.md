@@ -49,7 +49,8 @@
 -   [Timetable KBW (2022)](PROJECTS.md#timetable-kbw-2022)
 -   [Portfolio (2023)](PROJECTS.md#portfolio-2023-)
 -   [VideoCMS (2023)](PROJECTS.md#videocms-2023-)
--   [S-Ensemble (2023)](PROJECTS.md#S-Ensemble-2023-)
+-   [S-Ensemble (2023)](PROJECTS.md#s-ensemble-2023)
+-   [Spacebar Client (2023)](PROJECTS.md#spacebar-client-2023)
 <hr><br><br>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Kirari04&theme=radical)
