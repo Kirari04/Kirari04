@@ -7,8 +7,9 @@
 
 
 ## 👻 My most favourite Frameworks
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+<img alt="grafik" height="28" src="https://github.com/Kirari04/Kirari04/assets/103888491/4a2b68d7-5630-4541-a7e8-ae88e1fc137d" />
 
 ## 😈 Frameworks and Languages I worked with
 
@@ -16,6 +17,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <img alt="grafik" height="28" src="https://user-images.githubusercontent.com/103888491/223108157-ab1f8ba4-6a1c-4384-85ac-03879eeda834.png" />
+<img alt="grafik" height="28" src="https://github.com/Kirari04/Kirari04/assets/103888491/4a2b68d7-5630-4541-a7e8-ae88e1fc137d" />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-4fcca6?style=for-the-badge&logo=puppeteer&logoColor=white)
