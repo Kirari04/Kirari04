@@ -170,10 +170,11 @@ I'm currently working on my personal unique portfolio that will feature all basi
 
 ### **VideoCMS** (2023-?)
 
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <img alt="grafik" height="28" src="https://user-images.githubusercontent.com/103888491/223108157-ab1f8ba4-6a1c-4384-85ac-03879eeda834.png" />
+<img alt="grafik" height="28" src="https://user-images.githubusercontent.com/103888491/206697162-9d178ff2-0996-446d-a715-4d93c92b5786.png" />
 
 <p>
 This project is a CMS for videos. It has features like uploading, encoding, managing and distributing the videos to an large audience.
@@ -181,12 +182,13 @@ The project will have multiple stage where it first runs only on one maschine. T
 </p>
 
 [Docker Images : Kirari04/videocms](https://hub.docker.com/r/kirari04/videocms)<br>
-[Frontend : 02Gqbriel/videocms-svelte](https://github.com/02Gqbriel/videocms-svelte)
+[Frontend : Kirari04/videocms-frontend](https://github.com/Kirari04/videocms-frontend)
 <p>Screenshots:</p>
 <p>
-    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227171392-08e64f44-883f-4423-90dd-49b3bd46120f.png" />
-    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227171764-86861584-da76-41c9-baeb-18c30f6bb8b1.png" />
-    <img alt="grafik" width="200" src="https://user-images.githubusercontent.com/103888491/227172126-a02d0376-30a7-4cfa-a91f-6f5e8809c8ef.png" />
+    <img alt="grafik" width="200" src="https://github.com/Kirari04/Kirari04/assets/103888491/5c978092-0f02-48c8-bec8-13df3a81d6df" />
+    <img alt="grafik" width="200" src="https://github.com/Kirari04/Kirari04/assets/103888491/118bd949-67be-4cb4-8ed4-872143ee740c" />
+    <img alt="grafik" width="200" src="https://github.com/Kirari04/Kirari04/assets/103888491/1c044106-4ab2-4678-bc80-6130ca7c5f19" />
+    <img alt="grafik" width="200" src="https://github.com/Kirari04/Kirari04/assets/103888491/75f05c88-9f0f-4273-af3a-4f08fd99f460" />
 </p>
 <br /><hr><br><br>
 
