@@ -1,8 +1,8 @@
 # Kirari04 | Lev Saminskij
 ## Hi there 👋
 
-- 🔭 I’m currently working on the backend of VideoCMS
-- 🌱 I’m currently learning Golang in combination with fiber
+- 🔭 I’m currently working on a Video CDN
+- 🌱 I’m currently learning Golang in combination with fiber and echo
 - 📫 How to reach me: lev@saminskij.ch
 
 
